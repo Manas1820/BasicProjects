@@ -37,7 +37,6 @@ while(temp1->next !=NULL)
 temp->data=userValue;
 temp1->next=temp;
 temp->next=NULL;
-//printf("%d\t",temp->data);
 }
 }
 
@@ -51,7 +50,6 @@ if((*head)==NULL)
   (*head)=temp;
   temp->data=userValue;
   temp->next=NULL;
-  //printf("%d\t",**head);
 }
 else
 {
