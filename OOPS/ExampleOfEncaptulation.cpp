@@ -3,7 +3,7 @@
    Description : it is a basic program to show how to encapsulate the dtat using class
 */
 #include<iostream>
-#include<string>
+#include<string> //header files
 using namespace std;
 class Insurance
 {
